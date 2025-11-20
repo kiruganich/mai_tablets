@@ -2,3 +2,4 @@
 # Backup files
 *.backup
 ```
+node_modules
